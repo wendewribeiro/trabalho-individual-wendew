@@ -1,0 +1,71 @@
+{
+  "cinema": [
+    {
+      "id": 1,
+      "name": "descendentes 3"
+    },
+    {
+      "id": 2,
+      "name": "corra"
+    },
+    {
+      "id": 3,
+      "name": "em busca da felicidade"
+    },
+    {
+      "id": 4,
+      "name": "nao olhe para cima"
+    },
+    {
+      "id": 5,
+      "name": "as branquelas"
+    }
+    
+  ],
+  "temas": [
+    {
+      "id": 1,
+      "name": "musical"
+    },
+    {
+      "id": 2,
+      "name": "terror"
+    },
+    {
+      "id": 3,
+      "name": "aventura"
+    },
+    {
+      "id": 4,
+      "name": "suspense"
+
+    }
+  ],
+  "tema-resumo": [
+    {
+      "id": 1,
+      "name": "descendentes 3",
+      "tema": "livre"
+    },
+    {
+      "id": 2,
+      "name": "corra",
+      "tema": "para maiores de 16 anos"
+    },
+    {
+      "id": 3,
+      "name": "em busca da felicidade",
+      "tema": "livre"
+    },
+    {
+      "id": 4,
+      "name": "nao olhe para cima",
+      "tema": "para maiores de 15 anos"
+    },
+    {
+      "id": 5,
+      "name": "as branquelas",
+      "tema": "para maiores de 17 anos"
+    }
+  ]
+}
